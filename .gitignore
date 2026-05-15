@@ -225,3 +225,5 @@ dataset/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+COLAB_GUIDE.md
