@@ -227,3 +227,7 @@ dataset/
 .ipynb_checkpoints/
 
 COLAB_GUIDE.md
+Figures/
+tables/
+audit_report.json
+requirements.txt
